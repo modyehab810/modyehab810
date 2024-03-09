@@ -38,5 +38,3 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=modyehab810&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=modyehab810&theme=2077" height="180em" />
 </div>
-
-<img src="https://raw.githubusercontent.com/modyehab810/modyehab810/output/snake.svg" alt="Snake animation" />
