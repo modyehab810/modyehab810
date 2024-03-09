@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Ehab and I'm a Data Scientist and Machine Learning Engineering, from ....</h2>
 
 ###
 
@@ -40,6 +40,8 @@
 
 <br clear="both">
 
+
 <img src="https://raw.githubusercontent.com/modyehab810/modyehab810/output/snake.svg" alt="Snake animation" />
+
 
 ###
