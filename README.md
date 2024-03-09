@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
 <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="45" height="40"/>
 <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="Streamlit" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_169851.png" alt="Streamlit" width="60" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_169851.png" alt="Streamlit" width="70" height="40"/>
   
 </p>
 
