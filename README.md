@@ -1,4 +1,4 @@
-![image](https://github.com/modyehab810/modyehab810/assets/114261123/e79b7a7f-ea95-4e0e-933f-55820be781f6)<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Muhammad Ehab Muhammad Khalil</h1>
 <h3 align="center">Data Scientist and Machine Learning Engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modyehab810&label=Profile%20views&color=0e75b6&style=flat" alt="modyehab810" /> </p>
