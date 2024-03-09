@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="50" height="50"/>
 <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="50" height="50"/>
 <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="Power BI" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/8/8a/20200226034501%21Plotly-logo.png/120px-Plotly-logo.png" alt="Plotly" width="50" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/8/8a/20200226034501%21Plotly-logo.png/120px-Plotly-logo.png" alt="Plotly" width="50" height="50"/>
 
   
 </p>
