@@ -3,12 +3,7 @@
 <h3 align="center">Data Scientist and Machine Learning Engineer</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=modyehab810&label=Profile%20views&color=0e75b6&style=flat" alt="modyehab810" /> </p>
  -->
- <br>
-<div>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=modyehab810.modyehab810&left_text=Profile%20Viewers"  />
-</div>
 
-<br>
 
 <div> 
   <a href="https://www.linkedin.com/in/muhammad-ehab-853646287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
